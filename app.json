@@ -1,0 +1,10 @@
+{
+    "name": "JavaScript Product Provider Template",
+
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "hobby-dev"
+        }
+    }
+}

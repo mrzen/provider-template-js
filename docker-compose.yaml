@@ -1,0 +1,10 @@
+---
+version: '2'
+
+services:
+    redis:
+        image: redis:alpine
+        mem_limit: 128M
+        ports:
+         - 6379:6379/tcp
+        command: redis-server --maxmemory 100mb

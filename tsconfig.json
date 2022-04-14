@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "target": "ES2017",
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "lib": ["ES2017"],
+        "noImplicitAny": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "outDir": "dist"
+    }
+}
